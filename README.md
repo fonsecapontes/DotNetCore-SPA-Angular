@@ -1,2 +1,28 @@
 # DotNetCore-SPA-Angular
-SPA Angular with .Net Core 2 for study purposes
+The goal of this project is learning new concepts and apply them for study purpose. In each item of roadmap we'll explain the concept and how we application
+
+Visit our channel!
+
+### Tecnologies
+  * [Visual Studio 2017](https://www.visualstudio.com/pt-br/downloads/)
+  
+### Roadmap
+  - [ ] DotNet Core 2  
+  - [ ] Angular
+  - [ ] Layers
+  - [ ] Dependency injection
+  - [ ] AutoMapper
+  - [ ] Entity Framework Core  
+  - [ ] Integration continuous
+  - [ ] Amazon webservice
+  - [ ] TDD
+  - [ ] BDD
+  - [ ] DDD
+  - [ ] JWT
+  - [ ] CQRS Pattern
+  - [ ] Elasticsearch
+  - [ ] NoSQL
+  - [ ] Logging
+  - [ ] Swagger
+  - [ ] Redis
+  - [ ] RabbitMQ

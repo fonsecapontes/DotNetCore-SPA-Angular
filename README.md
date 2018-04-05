@@ -1,8 +1,6 @@
 # DotNetCore-SPA-Angular
 The goal of this project is learning new concepts and apply them for study purpose. In each item of roadmap we'll explain the concept and how we application
 
-Visit our channel!
-
 ### Tecnologies
   * [Visual Studio 2017](https://www.visualstudio.com/pt-br/downloads/)
   
@@ -11,7 +9,7 @@ Visit our channel!
   - [ ] Angular
   - [ ] Layers
   - [ ] Dependency injection
-  - [ ] AutoMapper
+  - [ ] Mapping
   - [ ] Entity Framework Core  
   - [ ] Integration continuous
   - [ ] Amazon webservice

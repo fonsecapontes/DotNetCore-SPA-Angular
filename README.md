@@ -7,6 +7,7 @@ The goal of this project is learning new concepts and apply them for study purpo
 ### Roadmap
   - [ ] DotNet Core 2  
   - [ ] Angular
+  - [ ] Material
   - [ ] Layers
   - [ ] Dependency injection
   - [ ] Mapping

@@ -1,21 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Business", "Solution.Business\Solution.Business.csproj", "{89582003-C491-4F4F-BDE7-18D4F2947F66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.Business", "Solution.Business\Solution.Business.csproj", "{89582003-C491-4F4F-BDE7-18D4F2947F66}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2E6DAB52-2D3F-49AE-91E5-392075CD2DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Mapping", "Solution.Mapping\Solution.Mapping.csproj", "{2820632A-F695-42EB-9A0D-B34D6C3BC780}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.Mapping", "Solution.Mapping\Solution.Mapping.csproj", "{2820632A-F695-42EB-9A0D-B34D6C3BC780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.CrossCutting", "Solution.CrossCutting\Solution.CrossCutting.csproj", "{8D10B4B5-0840-49E9-8A04-FBAAEB4253FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.CrossCutting", "Solution.CrossCutting\Solution.CrossCutting.csproj", "{8D10B4B5-0840-49E9-8A04-FBAAEB4253FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Domain", "Solution.Domain\Solution.Domain.csproj", "{F979BA0D-469C-4349-96D4-A2B40019445C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.Domain", "Solution.Domain\Solution.Domain.csproj", "{F979BA0D-469C-4349-96D4-A2B40019445C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Application", "Solution.Application\Solution.Application.csproj", "{BB2B2BF2-1791-4F0B-92B9-3EB042B1A498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.Application", "Solution.Application\Solution.Application.csproj", "{BB2B2BF2-1791-4F0B-92B9-3EB042B1A498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Logging", "Solution.Logging\Solution.Logging.csproj", "{EA6237EB-1F4E-48F7-969F-F6C4DAE7C797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution.Logging", "Solution.Logging\Solution.Logging.csproj", "{EA6237EB-1F4E-48F7-969F-F6C4DAE7C797}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

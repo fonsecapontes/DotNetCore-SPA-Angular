@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Base\" />
     <Folder Include="List\" />
     <Folder Include="Dropdown\" />
     <Folder Include="Service\" />

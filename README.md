@@ -22,6 +22,6 @@ The goal of this project is learning new concepts and apply them for study purpo
   - [ ] Elasticsearch
   - [ ] NoSQL
   - [ ] Logging
-  - [ ] Swagger
+  - [x] Swagger
   - [ ] Redis
   - [ ] RabbitMQ

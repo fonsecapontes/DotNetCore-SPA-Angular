@@ -5,10 +5,10 @@ The goal of this project is learning new concepts and apply them for study purpo
   * [Visual Studio 2017](https://www.visualstudio.com/pt-br/downloads/)
   
 ### Roadmap
-  - [ ] DotNet Core 2  
-  - [ ] Angular
+  - [x] DotNet Core 2  
+  - [x] Angular
   - [ ] Material
-  - [ ] Layers
+  - [x] Layers
   - [ ] Dependency injection
   - [ ] Mapping
   - [ ] Entity Framework Core  
